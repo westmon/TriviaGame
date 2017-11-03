@@ -12,7 +12,7 @@ var answers =[["Cosmetic surgery to lengthen the neck or legs", "Trepanation, a 
 ["copper", "silver", "gold", "lead"], ["Babysitting", "Screening one's self from the sun",  "Grooming", "Brushing teeth"], ["Drums","Flutes", "Lyres, guitar like instruments", "Didgeridoo"]];
 
 var correctAnswer =["Trepanation, a process of drilling a hole in one’s head to relieve pressure and treat ailments", "12,000 years ago", "250,000 years old", "45,000 years ago", "homo neanderthalensis", "copper", "Brushing teeth", "Flutes"];
-var imageArray =["<img class='image' src='assets/images/Trepanation.jpg'>", "<img  class='image' src='assets/images/earlyFarming.jpg'>", "<img class='image' src='assets/images/modernHumans.jpeg'>", "<img class='image' src='assets/images/cromagnum.jpeg'>", "<img class='image' src='assets/images/neanderthal.jpeg'>", "<img class='image' src='assets/images/copperTools.jpg'>", "<img class='image' src='assets/images/flutes.jpg'>"]
+var imageArray =["<img class='image' src='assets/images/Trepanation.jpg'>", "<img  class='image' src='assets/images/earlyFarming.jpg'>", "<img class='image' src='assets/images/modernHumans.jpeg'>", "<img class='image' src='assets/images/cromagnum.jpeg'>", "<img class='image' src='assets/images/neanderthal.jpeg'>", "<img class='image' src='assets/images/copperTools.jpeg'>", "<img class='image' src='assets/images/Teeth.jpeg'>", "<img class='image' src='assets/images/flutes.jpeg'>"]
 var counter = 30;
 var incorrect = 0;
 var correct = 0;
